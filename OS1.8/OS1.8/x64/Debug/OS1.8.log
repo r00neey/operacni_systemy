@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\ronge\source\repos\OS1.8\OS1.8\main.c(22,48): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+  OS1.8.vcxproj -> C:\Users\ronge\source\repos\OS1.8\x64\Debug\OS1.8.exe
